@@ -1,0 +1,6 @@
+imap jk <C-[>
+nmap <C-l> <C-v>
+nmap J gT
+nmap K gt
+let mapleader=","
+set easymotion
